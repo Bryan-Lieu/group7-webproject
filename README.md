@@ -16,9 +16,15 @@ The web page was developed using HTML, CSS, Bootstrap, and JavaScript as the fro
 
 ## **Work(s) in Progress:**
 
-Throughout all pages, there is a login authentication system that is functional with credentials that are saved directly into our Firebase backend as users with the **'Login'** and **'Register'** pages. However, we currently plan on making the system more secure overall, as the security of our users is crucial to the integrity of our platform. Moreover, we are continuing to research and develop a way to have the inventory page be accessible to restaurant owners/inventory managers. Hence, we believe that a step to achieving that could be implementing a way to specify during the sign-up/registration process, as well as a method of submitting proof for higher security. 
+Throughout all pages, there is a login authentication system that is functional with credentials that are saved directly into our Firebase backend as users with the **'Login'** and **'Register'** pages. 
 
-Additionally, we are looking into implementing an alert system for when a new item is added to the discounts table on the 'discounts page', which requires more research and practical testing in scripting (JavaScript) through Firebase. Ultimately, in the future, we also hope to be able to have the resources and capabilities to freely host the web page with a valid domain so that users can visit the web page through their browsers at any time. 
+1) However, we currently plan on making the system more secure overall, as the security of our users is crucial to the integrity of our platform.
+   
+2) Moreover, we are continuing to research and develop a way to have the inventory page be accessible to restaurant owners/inventory managers. Hence, we believe that a step to achieving that could be implementing a way to specify during the sign-up/registration process, as well as a method of submitting proof for higher security. 
+
+3) Additionally, we are looking into implementing an alert system for when a new item is added to the discounts table on the 'discounts page', which requires more research and practical testing in scripting (JavaScript) through Firebase.
+   
+4) Ultimately, in the future, we also hope to be able to have the resources and capabilities to freely host the web page with a valid domain so that users can visit the web page through their browsers at any time. 
 
 ## **Deployment Instructions:**
 
