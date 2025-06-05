@@ -6,13 +6,13 @@ The web page was developed using HTML, CSS, Bootstrap, and JavaScript as the fro
 
 ## **Current Iteration:**
 
-The **'Home Page'** features a carousel that highlights the purpose of the web page, as well as a section dedicated to various food banks that users can refer to if they wish to donate. 
+* The **'Home Page'** features a carousel that highlights the purpose of the web page, as well as a section dedicated to various food banks that users can refer to if they wish to donate. 
 
-The **'Discounts Page'** features a table of available discounts based on the entries on the inventory tracker page or 'inventory' page, displaying the quantity, expiration date, discount percentage, specific store or restaurant, and availability of the item being offered at a discount.
+* The **'Discounts Page'** features a table of available discounts based on the entries on the inventory tracker page or 'inventory' page, displaying the quantity, expiration date, discount percentage, specific store or restaurant, and availability of the item being offered at a discount.
 
-The **'Inventory Page'** is meant for the inventory managers/restaurant owners who put in various entries ranging from near-expiry, normal, to overstocked food items that could potentially be discounted and updated on the discounts page aftet the entry is entered in and registered into the Firestore database until it is removed or deleted. Additionally, all entries are capable of being edited.
+* The **'Inventory Page'** is meant for the inventory managers/restaurant owners who put in various entries ranging from near-expiry, normal, to overstocked food items that could potentially be discounted and updated on the discounts page aftet the entry is entered in and registered into the Firestore database until it is removed or deleted. Additionally, all entries are capable of being edited.
 
-Lastly, the **'About Us'** is, of course, where the web page further discusses our brand, purpose, and future goals. 
+* Lastly, the **'About Us'** is, of course, where the web page further discusses our brand, purpose, and future goals. 
 
 ## **Work(s) in Progress:**
 
